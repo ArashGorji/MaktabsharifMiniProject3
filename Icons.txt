@@ -1,0 +1,11 @@
+front\images\call-icon.png
+front\images\fb-icon-1.png
+front\images\fb-icon.png
+front\images\instagram-icon-1.png
+front\images\instagram-icon.png
+front\images\like-icon.png
+front\images\linkedin-icon-1.png
+front\images\mail-icon.png
+front\images\serach-icon.png
+front\images\twitter-icon-1.png
+front\images\twitter-icon.png
