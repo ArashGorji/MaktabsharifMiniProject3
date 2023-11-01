@@ -18,9 +18,9 @@ def save_commits_to_file(commits, filename):
 def main():
     username = 'ArashGorji'
     repo = 'MaktabsharifMiniProject3'
-    token = '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'
+    token = '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'
 
-    commits = get_commits(username, repo)
+    commits = get_commits(username, repo, token=token)
     save_commits_to_file(commits, 'commits.json')
 
 if __name__ == "__main__":
