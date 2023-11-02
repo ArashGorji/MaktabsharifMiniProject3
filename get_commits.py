@@ -13,11 +13,6 @@ def get_commits(username, repo, token=None):
     return commits
 
 
-def sort_commits_by_author(commits):
-    commits.sort(key=lambda commit: commit['commit']['author']['name'])
-    return commits
-
-
 def save_commits_to_file(commits, filename):
     with open(filename, 'w') as file:
         json.dump(commits, file, indent=4)
@@ -26,11 +21,10 @@ def save_commits_to_file(commits, filename):
 def main():
     username = 'ArashGorji'
     repo = 'MaktabsharifMiniProject3'
-    token = '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'
+    token = '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'
 
     commits = get_commits(username, repo, token=token)
-    sorted_commits = sort_commits_by_author(commits)
-    save_commits_to_file(sorted_commits, 'commits_sorted.json')
+    save_commits_to_file(commits, 'commits.json')
 
 
 if __name__ == "__main__":
