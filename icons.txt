@@ -1,0 +1,11 @@
+/home/miralireza/Desktop/project test/front/images/linkedin-icon-1.png
+/home/miralireza/Desktop/project test/front/images/like-icon.png
+/home/miralireza/Desktop/project test/front/images/twitter-icon-1.png
+/home/miralireza/Desktop/project test/front/images/serach-icon.png
+/home/miralireza/Desktop/project test/front/images/mail-icon.png
+/home/miralireza/Desktop/project test/front/images/instagram-icon-1.png
+/home/miralireza/Desktop/project test/front/images/fb-icon.png
+/home/miralireza/Desktop/project test/front/images/twitter-icon.png
+/home/miralireza/Desktop/project test/front/images/fb-icon-1.png
+/home/miralireza/Desktop/project test/front/images/call-icon.png
+/home/miralireza/Desktop/project test/front/images/instagram-icon.png
